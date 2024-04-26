@@ -1,5 +1,4 @@
 # Python_Mini_Projects
-
 This repository contains all the mini-projects that I've worked on python.
 | **No.** | **Name** | 
 | ------- | -------- | 
